@@ -154,5 +154,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ===== Console welcome message =====
     console.log('%cCupcake House Bake & Cake', 'font-family: Georgia, serif; font-size: 24px; color: #5D4037; font-weight: bold;');
-    console.log('%cTatli bir baslangic...', 'font-family: Georgia, serif; font-size: 14px; color: #E8B4B8; font-style: italic;');
+    console.log('%cTatlı bir başlangıç...', 'font-family: Georgia, serif; font-size: 14px; color: #E8B4B8; font-style: italic;');
 });
